@@ -19,22 +19,28 @@
          "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/walls/master/thumb%20(3).jpg"
       },
       {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/forest_one.png",
-         "name": "Forest",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/forest_one_thumb.jpg"
+         "author": "Google Earth",
+         "url": "https://raw.githubusercontent.com/DougSchuindt/walls/master/wall%20(4).jpg",
+         "name": "View 004",
+         "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/walls/master/thumb%20(4).jpg"
       },
       {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/tree_farm.jpg",
-         "name": "Tree Farm",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/tree_farm_thumb.jpg"
+         "author": "Google Earth",
+         "url": "https://raw.githubusercontent.com/DougSchuindt/walls/master/wall%20(5).jpg",
+         "name": "View 005",
+         "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/walls/master/thumb%20(5).jpg"
       },
       {
-         "author":"Tom Wellington",
-         "url":"https://github.com/afollestad/polar_json/raw/master/tree_tops.jpg",
-         "name":"Tree Tops",
-         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
+         "author":"Google Earth",
+         "url":"https://raw.githubusercontent.com/DougSchuindt/walls/master/wall%20(6).jpg",
+         "name":"View 006",
+         "thumbnail":"https://raw.githubusercontent.com/DougSchuindt/walls/master/thumb%20(6).jpg"
+      },
+            {
+         "author":"Google Earth",
+         "url":"https://raw.githubusercontent.com/DougSchuindt/walls/master/wall%20(7).jpg",
+         "name":"View 007",
+         "thumbnail":"https://raw.githubusercontent.com/DougSchuindt/walls/master/thumb%20(7).jpg"
       }
    ]
 }
