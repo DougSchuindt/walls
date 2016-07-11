@@ -36,11 +36,29 @@
          "name":"View 006",
          "thumbnail":"https://raw.githubusercontent.com/DougSchuindt/walls/master/thumb%20(6).jpg"
       },
-            {
+      {
          "author":"Google Earth",
          "url":"https://raw.githubusercontent.com/DougSchuindt/walls/master/wall%20(7).jpg",
          "name":"View 007",
          "thumbnail":"https://raw.githubusercontent.com/DougSchuindt/walls/master/thumb%20(7).jpg"
+      },
+            {
+         "author":"Google Earth",
+         "url":"https://raw.githubusercontent.com/DougSchuindt/walls/master/wall%20(8).jpg",
+         "name":"View 008",
+         "thumbnail":"https://raw.githubusercontent.com/DougSchuindt/walls/master/thumb%20(8).jpg"
+      },
+            {
+         "author":"Google Earth",
+         "url":"https://raw.githubusercontent.com/DougSchuindt/walls/master/wall%20(9).jpg",
+         "name":"View 009",
+         "thumbnail":"https://raw.githubusercontent.com/DougSchuindt/walls/master/thumb%20(9).jpg"
+      },
+            {
+         "author":"Google Earth",
+         "url":"https://raw.githubusercontent.com/DougSchuindt/walls/master/wall%20(10).jpg",
+         "name":"View 010",
+         "thumbnail":"https://raw.githubusercontent.com/DougSchuindt/walls/master/thumb%20(10).jpg"
       }
    ]
 }
